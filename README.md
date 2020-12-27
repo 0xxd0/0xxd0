@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Tencent.
 - 🌱 I’m currently learning "Das Capital".
 - 🤔 I’m looking for help with music making.
+- 🎮 I'm currently playing "Cyberpunk 1977".
+- 📽 I'm currently watching "Detective Conan".
 - 💬 Ask me about philosophy.
 - 📫 How to reach me: xudongloveslife@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: We are all a drop in the ocean.
+- ⚡ Fun fact: Nothing fun.
 
-
-[![0xxd0's github stats](https://github-readme-stats.vercel.app/api?username=0xxd0&count_private=true&show_icons=true&theme=buefy)](https://github.com/0xxd0)
+[![0xxd0's github stats](https://github-readme-stats.vercel.app/api?username=0xxd0&count_private=true&show_icons=true&theme=buefy)](https://github.com/0xxd0) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xxd0&layout=compact&langs_count=5&theme=buefy)](https://github.com/0xxd0)
